@@ -8,3 +8,4 @@
 ####[CSaT丶Cestbon](https://github.com/CSaTSunTory/firends/blob/master/CSaT_Cestbon/CSaT_Cestbon.md)
 ####[CSaT丶Mirrors](https://github.com/CSaTSunTory/firends/blob/master/CSaT_Mirrors/CSaT_Mirrors.md)
 ####[封尘](https://github.com/CSaTSunTory/firends/blob/master/wrc/wrc.md)
+####[芮雪](https://github.com/CSaTSunTory/firends/blob/master/rui/Xukai.md)
